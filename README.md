@@ -1,2 +1,1 @@
-# Facial Recognition Application
-Real time Facial Recognition application
+## Real time Facial Recognition Application
