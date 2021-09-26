@@ -1,2 +1,2 @@
 # Facial Recognition Application
-Facial Recognition Application. Works in real time.
+Real time Facial Recognition application
